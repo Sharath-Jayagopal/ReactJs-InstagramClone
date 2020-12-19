@@ -1,9 +1,3 @@
-#ReactJs-InstagramClone
-
-This is a react based instagram clone app !!!!!
-
-It uses firebase as a db and uses it features for authetication as well !
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
