@@ -1,0 +1,45 @@
+   
+    // {
+    //   username:"DevilLucifer",
+    //   imageUrl:"https://img.srgcdn.com/e//U2x5UlFiTFIzZjV4RG9wVzdORm4uanBn.jpg", 
+    //   caption:"test"
+    // },
+    // {
+    //   username:"hunter solJung",
+    //   imageUrl:"https://assets.change.org/photos/7/tz/vc/bYtZVCSZtRcfYhV-800x800-noPad.jpg?1591168674", 
+    //   caption:"test"
+    // }
+   
+     db.ref().set([
+        //   {
+        //     username:"DevilLucifer",
+        //     imageUrl:"https://img.srgcdn.com/e//U2x5UlFiTFIzZjV4RG9wVzdORm4uanBn.jpg", 
+        //     caption:"test"
+        //   },
+        //   {
+        //     username:"hunter solJung",
+        //     imageUrl:"https://assets.change.org/photos/7/tz/vc/bYtZVCSZtRcfYhV-800x800-noPad.jpg?1591168674", 
+        //     caption:"test"
+        //   }
+        // ])
+
+        // db.ref('posts').set({
+        //   username:"Lucifer",
+        //   imageUrl:"https://img.srgcdn.com/e//U2x5UlFiTFIzZjV4RG9wVzdORm4uanBn.jpg",
+        //   caption:"test"
+        // })
+
+
+
+  //       db.ref('posts').once('value')
+  //       .then(snapshot=>{
+  //           console.log(snapshot.val())
+  //           const userPost = []
+  //           snapshot.forEach(childSnapshot =>{
+  //             userPost.push({
+
+  //             })
+  //           })
+  //           setPosts([snapshot.val()])
+  //       })
+  // },[]);// conditon is from the []
